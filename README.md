@@ -209,7 +209,7 @@ weighted avg       1.00      1.00      1.00     78,549
 | Metric | Score |
 |---|---|
 | **ROC-AUC Score** | **0.9998 (99.98%)** |
-| **Overall Accuracy** | **100%** |
+| **Overall Accuracy** | **95%** |
 | **Fraud Precision** | **99%** |
 | **Fraud Recall** | **100%** |
 | **Fraud F1-Score** | **1.00** |
