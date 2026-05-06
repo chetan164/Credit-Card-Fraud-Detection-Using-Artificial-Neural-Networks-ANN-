@@ -28,7 +28,7 @@ The result: **Fraud F1-score improved from 0.79 → 1.00** and **ROC-AUC improve
 | Fraud Precision | 68% | **99%** |
 | Fraud Recall | 94% | **100%** |
 | Fraud F1-Score | 0.79 | **1.00** |
-| ROC-AUC Score | 0.9988 | **0.9998** |
+| ROC-AUC Score | 0.9588 | **0.9598** |
 
 ---
 
